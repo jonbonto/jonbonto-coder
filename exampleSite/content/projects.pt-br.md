@@ -1,6 +1,6 @@
 ---
-title: Projetos
+title: Proyek
 slug: projects
 ---
 
-Em construção... Aguarde!
+Deretan proyek
